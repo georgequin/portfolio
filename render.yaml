@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: adeyemi-portfolio
+    name: friday-portfolio
     runtime: static
     buildCommand: ""
     publishPath: "."
